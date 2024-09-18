@@ -63,3 +63,4 @@
 
 *2. Ajoutez l'importation dans le composant où vous souhaitez utiliser Axios*
 
+	import axios from "axios"
